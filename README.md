@@ -14,6 +14,7 @@ To install Pandas, run the following command in your terminal or command prompt:
 
 ```bash
 pip install pandas
+```
 How to Use
 1. Prepare the report file
 Download the GPS report in CSV format.
